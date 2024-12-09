@@ -75,16 +75,3 @@
 
 ---
 
-### 📊 GitHub Stats
-<!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thrishanka051&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="500"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrishanka051&layout=compact&theme=tokyonight" alt="Top Languages" width="400" />
-</p>*/
-
----
-
-### 🏆 Achievements
-/*<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thrishanka051&theme=onestar&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>*/-->
