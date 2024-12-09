@@ -32,16 +32,16 @@
 ### 🧑‍💻 About Me
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 I’m currently studying at **University of Jaffna**  
+- 🔭 I’m currently studying at **Faculty Of Engineering, University of Jaffna**  
   _(B. Sc Computer Engineering - Undergraduate)_
 
-- 🏆 Top Languages: **Java, SQL, C++, PHP, CSS, HTML, MERN**
+- 🏆 Top Languages : **Java, SQL, C++, PHP, CSS, HTML, MERN**
 
-- 🌱 Currently Learning: **JAVA Spring Boot Development**
+- 🌱 Currently Learning : **JAVA Spring Boot Development**
 
-- 💬 Ask Me About: **Web Development, Programming, Machine Learning, Artificial intelligence (AI)**
+- 💬 Ask Me About : **Web Development, Programming, Machine Learning, Artificial intelligence (AI)**
 
-- 📫 Reach Me: **hmrthrishankaherath@gmail.com**
+- 📫 Reach Me : **hmrthrishankaherath@gmail.com**
 
 ---
 
