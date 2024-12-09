@@ -37,11 +37,9 @@
 
 - 🏆 Top Languages: **Java, SQL, C++, PHP, CSS, HTML, MERN**
 
-- 💎 Cloud Platforms: **Google Cloud, AWS**
+- 🌱 Currently Learning: **JAVA Spring Boot Development**
 
-- 🌱 Currently Learning: **MERN Stack Development**
-
-- 💬 Ask Me About: **Web Development, Programming**
+- 💬 Ask Me About: **Web Development, Programming, Machine Learning, Artificial intelligence (AI)**
 
 - 📫 Reach Me: **hmrthrishankaherath@gmail.com**
 
